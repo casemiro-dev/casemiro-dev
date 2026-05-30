@@ -1,6 +1,12 @@
 <div align="center">
 
-  # Olá, eu sou o Casemiro Alves! 👋
+  # Olá, sou o Casemiro Alves!
+
+  ###  Sobre Mim
+
+<div align="center">
+  Aqui você pode colocar aquele breve resumo sobre você quando quiser! Como o foco agora é o visual, deixei este espaço reservado para suas futuras atualizações.
+</div>
 
 
   <br />
@@ -40,15 +46,9 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedrohenrique-23/pedrohenrique-23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/casemiro-dev/casemiro-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ###
 
 ---
-
-### 📝 Sobre Mim
-
-<div align="center">
-  Aqui você pode colocar aquele breve resumo sobre você quando quiser! Como o foco agora é o visual, deixei este espaço reservado para suas futuras atualizações.
-</div>
