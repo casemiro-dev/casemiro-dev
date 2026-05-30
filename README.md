@@ -1,8 +1,7 @@
 <div align="center">
 
-  # Olá, eu sou o Francisco! 👋
+  # Olá, eu sou o Casemiro Alves! 👋
 
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
   <br />
 
@@ -37,6 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 
 </div>
+
+###
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pedrohenrique-23/pedrohenrique-23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+###
 
 ---
 
