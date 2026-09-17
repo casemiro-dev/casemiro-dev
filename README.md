@@ -65,7 +65,7 @@ O fluxo de atendimento na operação utiliza estas ferramentas de forma integrad
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgressql/postgressql-original.svg" height="40" alt="Postgressql"/>
 </div>
 
 ---
